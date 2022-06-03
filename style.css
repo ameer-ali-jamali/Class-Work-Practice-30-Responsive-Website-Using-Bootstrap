@@ -101,3 +101,8 @@ footer {
   color: blue;
   text-align: center;
 }
+a:-webkit-any-link {
+  color: -webkit-link;
+  cursor: pointer;
+  text-decoration: underline;
+}
